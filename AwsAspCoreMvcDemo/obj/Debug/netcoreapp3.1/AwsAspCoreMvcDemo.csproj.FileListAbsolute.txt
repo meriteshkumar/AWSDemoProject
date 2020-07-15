@@ -9,7 +9,6 @@ D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\bin\Debug\netcoreapp3.1\AwsAspCo
 D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\bin\Debug\netcoreapp3.1\AwsAspCoreMvcDemo.pdb
 D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\bin\Debug\netcoreapp3.1\AwsAspCoreMvcDemo.Views.dll
 D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\bin\Debug\netcoreapp3.1\AwsAspCoreMvcDemo.Views.pdb
-D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\obj\Debug\netcoreapp3.1\AwsAspCoreMvcDemo.csprojAssemblyReference.cache
 D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\obj\Debug\netcoreapp3.1\staticwebassets\AwsAspCoreMvcDemo.StaticWebAssets.Manifest.cache
 D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\obj\Debug\netcoreapp3.1\staticwebassets\AwsAspCoreMvcDemo.StaticWebAssets.xml
 D:\practice\AwsAspCoreMvcDemo\AwsAspCoreMvcDemo\obj\Debug\netcoreapp3.1\AwsAspCoreMvcDemo.MvcApplicationPartsAssemblyInfo.cache
