@@ -5,6 +5,7 @@ phases:
     commands:
       - dotnet restore
       - dotnet build
+      - dotnet publish --framework netcoreapp3.1 --configuration Release --output dist
 artifacts:
   files:
-    - .\AwsAspCoreMvcDemo\bin\Debug\netcoreapp3.1\*
+    - .\dist\*
