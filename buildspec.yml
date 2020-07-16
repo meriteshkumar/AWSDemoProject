@@ -8,4 +8,4 @@ phases:
       - dotnet publish --framework netcoreapp3.1 --configuration Release --output dist
 artifacts:
   files:
-    - .\dist\*
+    - .\dist\**\*
